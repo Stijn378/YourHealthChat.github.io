@@ -1,3 +1,4 @@
+// update for jsDelivr
 import { KBUploadExtension } from 'https://cdn.jsdelivr.net/gh/Stijn378/VF-EXTENSIONS-DEMO/extensions.js';
 
 (function (d, t) {
