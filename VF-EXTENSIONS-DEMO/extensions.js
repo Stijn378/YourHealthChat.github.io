@@ -38,7 +38,7 @@ export const KBUploadExtension = {
         return;
       }
 
-      statusArea.innerHTML = '⏳ Uploading to Voiceflow...';
+      statusArea.innerHTML = '⏳ Uploading file...';
 
       try {
         const formData = new FormData();
