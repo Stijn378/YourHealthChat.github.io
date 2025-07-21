@@ -1,3 +1,5 @@
+const SVG_Thumb = `<svg width="20" height="20" viewBox="0 0 24 24" fill="gray"><path d="M2 21h4V9H2v12zM22 9c0-1.1-.9-2-2-2h-6.31l.95-4.57.03-.32a1 1 0 0 0-.99-1.11L13 1l-5 5.12V17h9a2 2 0 0 0 2-2l-.01-6z"/></svg>`;
+
 export const FeedbackExtension = {
   name: "Feedback",
   type: "response",
