@@ -1,5 +1,5 @@
 export const PrivacyPolicyExtension = {
-  name: 'PrivacyPolicy1',
+  name: 'PrivacyPolicy',
   type: 'response',
   match: ({ trace }) =>
     trace.type === 'ext_privacyPolicy' ||
