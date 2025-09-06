@@ -169,7 +169,7 @@ export const CustomPrivacyNotice = {
 
     const compactLabel = document.createElement('div');
     compactLabel.className = 'shrunk-text';
-    compactLabel.textContent = 'Privacyvoorwaarden geaccepteerd';
+    compactLabel.textContent = 'Privacy terms accepted';
 
     const svgContainer = document.createElement('div');
     svgContainer.className = 'tick-container';
